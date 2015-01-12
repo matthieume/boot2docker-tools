@@ -8,7 +8,6 @@ RUN apt-get update && apt-get install -y \
   build-essential \
   curl \
   wget \
-  ab \
   bzr \
   cvs \
   git \
